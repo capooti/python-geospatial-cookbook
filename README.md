@@ -17,4 +17,4 @@ Libraries covered:
 
 ### Working with rasters
 
-* [Switch cell values in a raster](rasters/switch_cell_values_in_raster.py)
+* [Switch cell values in a raster](rasters/switch_cell_values_in_raster.md)
