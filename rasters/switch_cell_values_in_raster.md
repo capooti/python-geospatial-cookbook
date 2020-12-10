@@ -1,6 +1,6 @@
 # Switch cell values in a raster
 
-I have a single band raster. Its datatype is uint8.
+I have [this single band raster](../data/raster_to_update.tif) . Its datatype is uint8.
 Its cell values can be 0,1,2,3,4.
 The raster came with 1 and 2 inverted, so I want to change all cells with 1s to 2s and viceversa.
 
